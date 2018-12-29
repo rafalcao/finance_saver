@@ -1,6 +1,6 @@
-# flutter_forms
+# Finance Saver
 
-A new Flutter project.
+Flutter Application Mobile Finance Saver
 
 ## Getting Started
 
